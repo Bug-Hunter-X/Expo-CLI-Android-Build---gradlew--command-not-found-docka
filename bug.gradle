@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The build process might fail with an error message indicating that the `gradlew` command is not found.  This happens even if Gradle is properly installed and configured on the system. The issue is related to how the Expo CLI interacts with the Android build system and its environment variables.
